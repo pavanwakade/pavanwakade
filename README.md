@@ -218,7 +218,7 @@ public class Developer {
   </picture>
 </div>
 
-> **Note:** Snake animation requires GitHub Actions setup. See instructions below!
+> 
 
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
