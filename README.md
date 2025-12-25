@@ -70,12 +70,17 @@ public class Developer {
 <div align="center">
 
 ### 🔥 Backend Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=oracle&logoColor=white" alt="JDBC"/>
-  <img src="https://img.shields.io/badge/Servlet-FF5733?style=for-the-badge&logo=java&logoColor=white" alt="Servlet"/>
-  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" alt="JSP"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,springboot,hibernate" alt="Backend"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Servlet-FF5733?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
+</p>
+
 
 ### 🎨 Frontend Technologies
 <p>
@@ -94,6 +99,9 @@ public class Developer {
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,postman,springbootTool" alt="Tools" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STS-Spring_Tool_Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+</p>
 
 
 
