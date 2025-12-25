@@ -89,10 +89,13 @@ public class Developer {
 </p>
 
 ### 🛠️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" alt="Tools" />
-  <img src="https://img.shields.io/badge/Manual_Testing-8A2BE2?style=for-the-badge&logo=testing-library&logoColor=white" alt="Testing"/>
+<p align="center">
+  <!-- IDEs & Tools via SkillIcons -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,postman,springbootTool" alt="Tools" />
 </p>
+
+
+
 
 </div>
 
