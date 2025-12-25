@@ -218,6 +218,10 @@ public class Developer {
   </picture>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pavanwakade/pavanwakade/output/ocean.gif" width="90%" alt="snake gif"/>
+</div>
+
 > 
 
 <!-- Animated Footer -->
