@@ -69,75 +69,28 @@ public class Developer {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<h3>🔥 Backend Technologies</h3>
-</td>
-<td align="center" width="25%">
-<h3>🎨 Frontend Technologies</h3>
-</td>
-<td align="center" width="25%">
-<h3>🗄️ Database Management</h3>
-</td>
-<td align="center" width="25%">
-<h3>🛠️ Tools & Technologies</h3>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/><br/>
-<img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=oracle&logoColor=white" alt="JDBC"/><br/>
-<img src="https://img.shields.io/badge/Servlet-FF5733?style=flat-square&logo=java&logoColor=white" alt="Servlet"/><br/>
-<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white" alt="JSP"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5"/><br/>
-<img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3"/><br/>
-<img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript"/><br/>
-<img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/><br/>
-<img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL"/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB"/><br/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" alt="Oracle"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/><br/>
-<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/><br/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code"/><br/>
-<img src="https://skillicons.dev/icons?i=eclipse" height="50" alt="Eclipse"/><br/>
-<img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman"/><br/>
-<img src="https://img.shields.io/badge/Manual_Testing-8A2BE2?style=flat-square&logo=testing-library&logoColor=white" alt="Testing"/>
-</td>
-</tr>
-</table>
-
-### 💻 Complete Tech Stack Overview
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,bootstrap,mysql,postgresql,mongodb,git,github,vscode,eclipse,postman&perline=13" alt="Tech Stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+### 🔥 Backend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=oracle&logoColor=white" alt="JDBC"/>
   <img src="https://img.shields.io/badge/Servlet-FF5733?style=for-the-badge&logo=java&logoColor=white" alt="Servlet"/>
   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" alt="JSP"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+### 🎨 Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend" />
+</p>
+
+### 🗄️ Database Management
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Databases" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+### 🛠️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" alt="Tools" />
   <img src="https://img.shields.io/badge/Manual_Testing-8A2BE2?style=for-the-badge&logo=testing-library&logoColor=white" alt="Testing"/>
 </p>
 
