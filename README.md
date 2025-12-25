@@ -83,15 +83,21 @@ public class Developer {
 
 
 ### 🎨 Frontend Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend"/>
 </p>
 
+
 ### 🗄️ Database Management
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Databases" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
 
 ### 🛠️ Tools & Technologies
 <p align="center">
@@ -163,10 +169,11 @@ public class Developer {
 <td width="50%" valign="top">
 
 ### 🚀 Backend Development
-- ☕ Java Core
+- ☕ Java
 - 🔌 JDBC
 - 🌐 Servlets & JSP
 - 🔧 REST APIs
+- 🌱 Spring & Spring Boot
 
 </td>
 <td width="50%" valign="top">
@@ -175,7 +182,8 @@ public class Developer {
 - 📄 HTML5
 - 🎨 CSS3
 - ⚡ JavaScript
-- 🎯 Bootstrap
+- 🌬️ Tailwind CSS
+- ⚛️ React
 
 </td>
 </tr>
@@ -186,22 +194,23 @@ public class Developer {
 - 🐬 MySQL
 - 🐘 PostgreSQL
 - 🔴 Oracle
-- 🍃 MongoDB
+- 🧠 SQL & Query Optimization
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎯 Learning Goals
-- 🌱 Spring Boot
 - 🔄 Microservices
-- 📡 REST APIs
-- ☁️ Cloud Technologies
+- 🔐 Spring Security
+- ☁️ Cloud Fundamentals
+- 🧩 System Design Basics
 
 </td>
 </tr>
 </table>
 
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
