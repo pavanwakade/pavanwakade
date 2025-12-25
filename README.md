@@ -52,7 +52,8 @@ public class Developer {
     };
     
     public void sayHi() {
-        System.out.println("Thanks for visiting! Let's build something amazing together!");
+        System.out.println("Thanks for visiting! Let's build
+                               something amazing together!");
     }
 }
 ```
