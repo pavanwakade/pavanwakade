@@ -138,26 +138,48 @@ public class Developer {
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Pavan))
-    Backend Development
-      Java Core
-      JDBC
-      Servlets & JSP
-    Frontend Skills
-      HTML5
-      CSS3
-      JavaScript
-    Database Management
-      MySQL
-      PostgreSQL
-      Oracle
-    Goals
-      Spring Boot
-      Microservices
-      REST APIs
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Backend Development
+- ☕ Java Core
+- 🔌 JDBC
+- 🌐 Servlets & JSP
+- 🔧 REST APIs
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Frontend Skills
+- 📄 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- 🎯 Bootstrap
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Database Management
+- 🐬 MySQL
+- 🐘 PostgreSQL
+- 🔴 Oracle
+- 🍃 MongoDB
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Learning Goals
+- 🌱 Spring Boot
+- 🔄 Microservices
+- 📡 REST APIs
+- ☁️ Cloud Technologies
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -186,11 +208,17 @@ mindmap
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pavanwakade/pavanwakade/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavanwakade/pavanwakade/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavanwakade/pavanwakade/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pavanwakade/pavanwakade/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
+> **Note:** Snake animation requires GitHub Actions setup. See instructions below!
 
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
