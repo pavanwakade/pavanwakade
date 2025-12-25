@@ -129,8 +129,17 @@ public class Developer {
 
 ## 💼 Recent Activity
 
+<div align="center">
+
 <!--START_SECTION:activity-->
+1. 🎉 Just getting started with automated activity tracking!
+2. 🔧 Setting up GitHub Actions workflow
+3. 📝 Building an awesome GitHub profile
+4. 💻 Learning and growing every day
+5. 🚀 Stay tuned for more updates!
 <!--END_SECTION:activity-->
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
