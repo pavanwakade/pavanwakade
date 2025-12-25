@@ -58,8 +58,8 @@ public class Developer {
 ```
 
 - 🔭 Currently working on **Full Stack Java Projects**
-- 🌱 Learning **Spring Boot & Microservices**
-- 💬 Ask me about **Java, JDBC, Servlets, JSP**
+- 🌱 Learning **Microservices**
+- 💬 Ask me about **Java,Spring Boot JDBC, Servlets, JSP, React**
 - 📫 Reach me at **pavanwakade199@gmail.com**
 - ⚡ Fun fact: **I debug with coffee! ☕**
 
