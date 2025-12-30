@@ -238,21 +238,7 @@ public class Developer {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 Contribution Graph
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavanwakade/pavanwakade/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavanwakade/pavanwakade/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pavanwakade/pavanwakade/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pavanwakade/pavanwakade/output/ocean.gif" width="90%" alt="snake gif"/>
-</div>
-
-> 
 
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
