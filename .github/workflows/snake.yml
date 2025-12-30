@@ -1,46 +1,46 @@
-name: Generate Snake Animation
+# name: Generate Snake Animation
 
-on:
-  # Run automatically every 24 hours
-  schedule:
-    - cron: "0 0 * * *"
+# on:
+#   # Run automatically every 24 hours
+#   schedule:
+#     - cron: "0 0 * * *"
   
-  # Run on every push to main branch
-  push:
-    branches:
-      - main
+#   # Run on every push to main branch
+#   push:
+#     branches:
+#       - main
   
-  # Allows manual trigger from Actions tab
-  workflow_dispatch:
+#   # Allows manual trigger from Actions tab
+#   workflow_dispatch:
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
+# jobs:
+#   generate:
+#     permissions:
+#       contents: write
+#     runs-on: ubuntu-latest
+#     timeout-minutes: 10
     
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v3
       
-      # Generate snake animation
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: pavanwakade
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#       # Generate snake animation
+#       - name: Generate github-contribution-grid-snake.svg
+#         uses: Platane/snk/svg-only@v3
+#         with:
+#           github_user_name: pavanwakade
+#           outputs: |
+#             dist/github-contribution-grid-snake.svg
+#             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+#             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # Push files to output branch
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#       # Push files to output branch
+#       - name: Push to output branch
+#         uses: crazy-max/ghaction-github-pages@v3.1.0
+#         with:
+#           target_branch: output
+#           build_dir: dist
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
