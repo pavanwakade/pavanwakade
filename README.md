@@ -217,7 +217,7 @@ public class Developer {
 
 ## 📫 Connect With Me
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://pavanwakade.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
@@ -230,7 +230,7 @@ public class Developer {
 </a>
 <a href="https://github.com/pavanwakade" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+</a> -->
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad!" - Cory House
 
