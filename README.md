@@ -9,7 +9,7 @@
 </a>
 
 <!-- Animated Social Badges -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://pavanwakade.netlify.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010" alt="Portfolio"/>
   </a>
@@ -22,7 +22,7 @@
   <a href="https://drive.google.com/drive/folders/1Kan1NIHjEDnytGzDGkvyebdrgBbUc3bT?usp=drive_link">
     <img src="https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=101010" alt="Resume"/>
   </a>
-</p>
+</p> -->
 
 <!-- Profile Views Counter with Animation -->
 <p align="center">
